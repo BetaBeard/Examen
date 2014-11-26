@@ -1,0 +1,16 @@
+From 48ed0e5f3a0e6c42b1d0df6787ce9b03d801c8f0 Mon Sep 17 00:00:00 2001
+From: BetaBeard <r.q.g@hotmail.com>
+Date: Wed, 26 Nov 2014 11:01:31 +0100
+Subject: [PATCH] Primera modificacion
+
+---
+ README.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.txt
+
+diff --git a/README.txt b/README.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.4.msysgit.1
+
